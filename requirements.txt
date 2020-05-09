@@ -1,0 +1,4 @@
+matplotlib==3.2.1
+pandas==1.0.3
+Bio==0.1.0
+COVID19Py==0.3.0
